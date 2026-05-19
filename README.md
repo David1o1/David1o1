@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hei!
 
 Jeg er en utdannet dataingeniør fra OsloMet med interesse for fullstack utvikling og å bygge gode, enkle og brukervennlige løsninger.
 
@@ -29,6 +29,4 @@ Jeg liker spesielt godt å forstå hvordan frontend og backend henger sammen, og
 - CSS
 - TypeScript
 - React
-- Python
-- Prisma
 

@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**David1o1/David1o1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg er dataingeniør fra OsloMet med interesse for fullstack utvikling og å bygge gode, enkle og brukervennlige løsninger.
 
-Here are some ideas to get you started:
+Akkurat nå jobber jeg med et prosjekt for kirken min som en del av et utviklingsteam, der vi bygger en fullstack applikasjon hovedsakelig i TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jeg liker spesielt godt å forstå hvordan frontend og backend henger sammen, og å finne gode og effektive løsninger på tekniske utfordringer.
+
+---
+
+## 🔭 Hva jeg jobber med
+
+- Fullstack utvikling i et kirkeprosjekt (team-basert)
+- Fokus på TypeScript og moderne webutvikling
+- Jobber med både frontend og backend funksjonalitet
+- Interesse for struktur, skalerbarhet og gode brukeropplevelser

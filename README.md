@@ -17,7 +17,6 @@ Jeg liker spesielt godt å forstå hvordan frontend og backend henger sammen, og
   
 ## 📫 Kontakt
 
-- Email: David.Thoorp@outlook.com 
 - LinkedIn: [(Connent with me)](https://www.linkedin.com/in/david-thorp-3ab3b22b6/)
 
 ---

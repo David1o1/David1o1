@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Jeg er dataingeniør fra OsloMet med interesse for fullstack utvikling og å bygge gode, enkle og brukervennlige løsninger.
+Jeg er en utdannet dataingeniør fra OsloMet med interesse for fullstack utvikling og å bygge gode, enkle og brukervennlige løsninger.
 
 Akkurat nå jobber jeg med et prosjekt for kirken min som en del av et utviklingsteam, der vi bygger/vedlikeholder en fullstack applikasjon.
 

@@ -24,10 +24,11 @@ Jeg liker spesielt godt å forstå hvordan frontend og backend henger sammen, og
 ## 🛠️ Tech Stack
 
 - HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Prisma
 - Java
 - JavaScript
+- CSS
+- TypeScript
+- React
+- Python
+- Prisma
+

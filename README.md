@@ -29,7 +29,6 @@ Jeg liker spesielt godt å forstå hvordan frontend og backend henger sammen, og
 - JavaScript
 - TypeScript
 - React
-- Tailwind CSS
 - Prisma
 - Java
 - JavaScript

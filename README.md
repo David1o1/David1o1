@@ -17,7 +17,7 @@ Jeg liker spesielt godt å forstå hvordan frontend og backend henger sammen, og
   
 ## 📫 Kontakt
 
-- LinkedIn: [(Connent with me)](https://www.linkedin.com/in/david-thorp-3ab3b22b6/)
+- LinkedIn: [(Connect with me)](https://www.linkedin.com/in/david-thorp-3ab3b22b6/)
 
 ---
 

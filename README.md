@@ -16,12 +16,13 @@ Jeg liker spesielt godt å forstå hvordan frontend og backend henger sammen, og
 
   
 ## 📫 Kontakt
-
-- LinkedIn: [(Connect with me)](https://www.linkedin.com/in/david-thorp-3ab3b22b6/)
+  <a href="https://www.linkedin.com/in/david-thorp-3ab3b22b6/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,ts,idea,vscode)](https://skillicons.dev)
 

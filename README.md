@@ -24,10 +24,4 @@ Jeg liker spesielt godt å forstå hvordan frontend og backend henger sammen, og
 ## 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,react,ts)](https://skillicons.dev)
-- HTML
-- Java
-- JavaScript
-- CSS
-- TypeScript
-- React
 
